@@ -1,4 +1,4 @@
-# BORE (Burst-Oriented Response Enhancer) CPU Scheduler
+# BORE (Burst-Oriented Response Enhancer) CPU Scheduler for Android
 
 ## Overview
 
